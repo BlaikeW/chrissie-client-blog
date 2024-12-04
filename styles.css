@@ -1,0 +1,50 @@
+body{
+  background-color: lightblue;
+  background-image: url(snowflake-background-falling-snow-vector-illustration-snowfall-sky-christmas-winter-background_160081-999.avif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.container {
+  position: relative;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: navy;
+  font-family:lobster;
+p {color: white;}
+}
+.pill{
+  font-size: 12px;
+  font-family:sans-serif;
+  padding: 0.5em 0.1em;
+  margin: 0.25em;
+  border-radius: 1em;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.pill:hover{
+  background: lightblue;
+}
+ul li { 
+  display: inline;
+  text-align: right;
+  margin: 20px ;
+  padding: 60px ;
+  width: .25;
+}
+h3{
+  text-align: center;
+  margin: 30px auto;
+  border: 2px;
+  font-family: lobster;
+  color: navy;
+  font-size: 40px;
+}
+p{
+  padding: 50px 270px 50px 270px;
+}
